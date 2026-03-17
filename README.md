@@ -1,2 +1,2 @@
-# Craft Log
-Document your daily progress with Craft Log.
+# Hex
+description to be updated 
